@@ -11,6 +11,7 @@ public class FormaPagamento {
             System.out.println("1. Pix");
             System.out.println("2. Crédito");
             System.out.println("3. Boleto");
+                System.out.println("3. Boleto");
 
             int opcao = scanner.nextInt();
             String tipoPagamento;
